@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "50658338-1fac-43b1-abd8-baf70325b73e"
+      }
+    },
+    "owner": "thiagodebastos"
   }
 }
